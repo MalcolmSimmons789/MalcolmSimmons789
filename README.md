@@ -4,7 +4,7 @@
 
 - 🍔 I am currently working on my burger website
 - 💻 I'm currently learning everything front end from UI/UX, to React
-- 👫 I'm looking to network with front-end developer groups
+- 👫 I'm looking to network with front-end groups
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🎨 Fun fact: I love to make People laugh and make art in my spare time
 
