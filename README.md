@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/malcolm-simmons-5b5045207)
-&nbsp;&nbsp;
+[![website]](www.linkedin.com/in/malcolm-simmons-5b5045207)
 
 ### Launguages and Tools:
 
