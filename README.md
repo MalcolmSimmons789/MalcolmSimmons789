@@ -1,7 +1,5 @@
 ### Hi there, my name is Malcolm
 
-## I am a trucker driver🚚, that's merging into my self-taught developer path!
-
 - 🍔 I am currently working on my burger website
 - 💻 I'm currently learning everything front end from UI/UX, to React
 - 👫 I'm looking to network with front-end groups
